@@ -15,6 +15,12 @@ Drag-and-drop any `.json` file directly into ComfyUI to load the workflow.
 
 ---
 
+## LTX Video 2.3
+
+| Workflow                                          | Description                                                                      | Type      | Updated    |
+| ------------------------------------------------- | -------------------------------------------------------------------------------- | --------- | ---------- |
+| [I2V Two-Pass](ltx/2.3/i2v-two-pass/)            | Two-pass I2V with start/end guide images, 720p→1080p upscale, and audio support  | Video gen | 2026-03-30 |
+
 ## WAN 2.2
 
 | Workflow                                                  | Description                                                               | Type       | Updated    |
