@@ -9,16 +9,6 @@ Face enhancement pipeline for WAN 2.2 video output. Loads an existing video, det
 
 ## Preview
 
-<!-- Test 1: video tag -->
-<video src="https://huggingface.co/Cseti/wan-14b-shinkai-anime-style-lora-v1/resolve/main/assets/single_00002.mp4" controls width="720"></video>
-
-<!-- Test 2: markdown image syntax -->
-![Preview](https://huggingface.co/Cseti/wan-14b-shinkai-anime-style-lora-v1/resolve/main/assets/single_00002.mp4)
-
-<!-- Test 3: plain URL on its own line -->
-https://huggingface.co/Cseti/wan-14b-shinkai-anime-style-lora-v1/resolve/main/assets/single_00002.mp4
-
-
 [![Preview — meeting scene](media/preview-meeting_thumb.png)](media/preview-meeting.mp4)
 
 [![Preview — backward look scene](media/preview-backwardlook_thumb.png)](media/preview-backwardlook.mp4)
