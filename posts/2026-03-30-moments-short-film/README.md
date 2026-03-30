@@ -42,7 +42,7 @@ For the stills I used [Z-Image Two-Stage](../../z-image/two-stage/) — it does 
 
 ### Animation: Image-to-Video
 
-I tried a lot of different workflows and settings for I2V. Still can't say I've figured it out — every project feels like I'm half-guessing. But here's one I put together that worked well for this film: *(workflow coming soon)*
+I tried a lot of different workflows and settings for I2V. Still can't say I've figured it out — every project feels like I'm half-guessing. But here's one I put together that worked well for this film: [LTX 2.3 two-pass](../../ltx/2.3/i2v-two-pass/)
 
 The key-frames go in and the video prompt only describes motion, nothing visual. The visuals are already in the image.
 
@@ -54,7 +54,10 @@ So I made a WAN 2.2 based detailer workflow for this. It segments the face - or 
 
 The workflow is here: [WAN 2.2 Face Detailer](../../wan/2.2/face-detailer/)
 
-[![Face detail — meeting](../../wan/2.2/face-detailer/media/preview-meeting_thumb.png)](../../wan/2.2/face-detailer/media/preview-meeting.mp4) [![Face detail — backward look](../../wan/2.2/face-detailer/media/preview-backwardlook_thumb.png)](../../wan/2.2/face-detailer/media/preview-backwardlook.mp4)
+<table><tr>
+<td><a href="../../wan/2.2/face-detailer/media/preview-meeting.mp4"><img src="../../wan/2.2/face-detailer/media/preview-meeting_thumb.png" width="100%"></a></td>
+<td><a href="../../wan/2.2/face-detailer/media/preview-backwardlook.mp4"><img src="../../wan/2.2/face-detailer/media/preview-backwardlook_thumb.png" width="100%"></a></td>
+</tr></table>
 
 ### Music: Suno
 
@@ -75,7 +78,7 @@ Nothing fancy here. The script was written with the cuts already in mind, so put
 | Music           | Suno                                                          |
 | TTS             | VibeVoice — cloned voice (P.J. Taylor / LibriVox reader 9165) |
 | Image/Video gen | ComfyUI                                                       |
-| Image-to-Video  |                         |
+| Image-to-Video  | [LTX 2.3 two-pass](../../ltx/2.3/i2v-two-pass/)               |
 | Text-to-Image   | [Z-Image Two-Stage](../../z-image/two-stage/)                 |
 | Image editing   | Qwen-Image / Nanobanana                                       |
 | Face detailing  | [WAN 2.2 Face Detailer](../../wan/2.2/face-detailer/)         |
