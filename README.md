@@ -11,7 +11,7 @@ Drag-and-drop any `.json` file directly into ComfyUI to load the workflow.
 
 | Post | Date |
 |---|---|
-| [MOMENTS — Making of](drafts/2026-03-25-moments-short-film/) | 2026-03-25 |
+| [MOMENTS — Making of](posts/2026-03-30-moments-short-film/) | 2026-03-30 |
 
 ---
 
