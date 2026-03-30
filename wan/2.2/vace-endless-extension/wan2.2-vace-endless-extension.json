@@ -1645,7 +1645,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "WanVideoWrapper_Pusa22_00023.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/WanVideoWrapper_Pusa22_00023.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -1722,7 +1722,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "WanVideoWrapper_Pusa22_00024.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/WanVideoWrapper_Pusa22_00024.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -2739,7 +2739,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "WanVideoWrapper_Pusa22_00025.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/WanVideoWrapper_Pusa22_00025.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -3776,7 +3776,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "WanVideoWrapper_Pusa22_00028.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/WanVideoWrapper_Pusa22_00028.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -9314,7 +9314,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "tedx-adult-concat3_00006.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/art/output/Project/Tedx/adult/videos/tedx-adult-concat3_00006.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -9391,7 +9391,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "tedx-adult-concat2_00006.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/art/output/Project/Tedx/adult/videos/tedx-adult-concat2_00006.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -9468,7 +9468,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "tedx-adult-concat1_00006.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/art/output/Project/Tedx/adult/videos/tedx-adult-concat1_00006.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -9988,7 +9988,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "drawing-concat4_00010.png",
-            "fullpath": "/home/cseti/data2/AI/art/output/Project/Tedx/drawing/videos/drawing-concat4_00010.mp4"
+            "fullpath": ""
           }
         }
       }

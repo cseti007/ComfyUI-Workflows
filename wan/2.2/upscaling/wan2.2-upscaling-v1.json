@@ -3211,7 +3211,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 30,
             "workflow": "BIG_upscale_1080_30pfs_00034.png",
-            "fullpath": "/home/cseti/data2/AI/art/output/wan2.2/upscale/BIG_upscale_1080_30pfs_00034.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -3407,7 +3407,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00015.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00015.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -3536,7 +3536,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00024.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00024.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -4472,7 +4472,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00030.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00030.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -5229,7 +5229,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00027.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00027.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -5480,7 +5480,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00028.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00028.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -6036,7 +6036,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00253.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00253.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -6230,7 +6230,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00260.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00260.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -6615,7 +6615,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00254.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00254.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -6736,7 +6736,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00007.png",
-            "fullpath": "/home/cseti/data2/AI/AnimateDiff_00007.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -7047,7 +7047,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00261.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00261.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -7125,7 +7125,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00031.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00031.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -8586,7 +8586,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "BIG_upscale_comparison_00005.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/art/output/wan2.2/upscale/BIG_upscale_comparison_00005.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -9105,7 +9105,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "BIG_upscale_comparison_00006.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/art/output/wan2.2/upscale/BIG_upscale_comparison_00006.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -9188,7 +9188,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "BIG_upscale_comparison_00004.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/art/output/wan2.2/upscale/BIG_upscale_comparison_00004.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -9591,7 +9591,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00019.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00019.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -10036,7 +10036,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00017.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00017.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -10114,7 +10114,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00016.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00016.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -10255,7 +10255,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00018.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00018.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -10936,7 +10936,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00026.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00026.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -11246,7 +11246,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00025.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00025.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -11324,7 +11324,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00029.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00029.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -11527,7 +11527,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00020.png",
-            "fullpath": "/home/cseti/ComfyUI/temp/AnimateDiff_00020.mp4"
+            "fullpath": ""
           }
         }
       }

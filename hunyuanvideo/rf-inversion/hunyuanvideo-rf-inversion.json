@@ -1270,7 +1270,7 @@
             "format": "image/gif",
             "frame_rate": 24,
             "workflow": "AnimateDiff_00002.png",
-            "fullpath": "/home/cseti/ComfyUI1/ComfyUI/temp/AnimateDiff_00002.gif"
+            "fullpath": ""
           },
           "muted": false
         }
@@ -1653,7 +1653,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 24,
             "workflow": "20250123T10-41_00001.png",
-            "fullpath": "/home/cseti/Data/onedrive-cseti/Art/hunyuan-video/20250123T10-41_00001.mp4"
+            "fullpath": ""
           },
           "muted": false
         }
@@ -1891,7 +1891,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 24,
             "workflow": "20250123T10-41_00002.png",
-            "fullpath": "/home/cseti/Data/onedrive-cseti/Art/hunyuan-video/20250123T10-41_00002.mp4"
+            "fullpath": ""
           },
           "muted": false
         }

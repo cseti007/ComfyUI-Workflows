@@ -610,7 +610,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00022.png",
-            "fullpath": "/home/cseti/ComfyUI2/temp/AnimateDiff_00022.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -688,7 +688,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00023.png",
-            "fullpath": "/home/cseti/ComfyUI2/temp/AnimateDiff_00023.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -1378,7 +1378,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00024.png",
-            "fullpath": "/home/cseti/ComfyUI2/temp/AnimateDiff_00024.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -2385,7 +2385,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00016.png",
-            "fullpath": "/home/cseti/ComfyUI2/temp/AnimateDiff_00016.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -3909,7 +3909,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 24,
             "workflow": "meeting_1_woman_facedetailed_00006.png",
-            "fullpath": "/home/cseti/ComfyUI2/temp/art/output/Project/TheArcaGidanPrize/2026 Time/2 the moments/videos/meeting/meeting_1_woman_facedetailed_00006.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -3987,7 +3987,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 24,
             "workflow": "meeting_1_woman_facedetailed_00004.png",
-            "fullpath": "/home/cseti/ComfyUI2/temp/art/output/Project/TheArcaGidanPrize/2026 Time/2 the moments/videos/meeting/meeting_1_woman_facedetailed_00004.mp4"
+            "fullpath": ""
           }
         }
       }

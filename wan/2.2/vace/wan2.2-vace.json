@@ -631,7 +631,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "WanVideoWrapper_VACE_startendframe_00040.png",
-            "fullpath": "/home/cseti/comfy-dev/ComfyUI/temp/WanVideoWrapper_VACE_startendframe_00040.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -1019,7 +1019,7 @@
             "format": "image/webp",
             "frame_rate": 16,
             "workflow": "AnimateDiff_00040.png",
-            "fullpath": "/home/cseti/comfy-dev/ComfyUI/temp/AnimateDiff_00040.webp"
+            "fullpath": ""
           }
         }
       }
@@ -2785,7 +2785,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "gguf-testing-single_00052.png",
-            "fullpath": "/home/cseti/Data/onedrive-cseti/Art/WAN/BI/gguf-testing-single_00052.mp4"
+            "fullpath": ""
           }
         }
       }
@@ -2863,7 +2863,7 @@
             "format": "video/h264-mp4",
             "frame_rate": 16,
             "workflow": "gguf-testing-compa_00054.png",
-            "fullpath": "/home/cseti/Data/onedrive-cseti/Art/WAN/BI/gguf-testing-compa_00054.mp4"
+            "fullpath": ""
           }
         }
       }
