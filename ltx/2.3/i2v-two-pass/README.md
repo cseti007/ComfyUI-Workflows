@@ -9,8 +9,8 @@ Two-pass Image-to-Video workflow using LTX Video 2.3 with audio generation suppo
 
 ## Preview
 
-<!-- Replace YOUTUBE_VIDEO_ID with your video ID after uploading -->
-[![Watch on YouTube](https://img.youtube.com/vi/5pMIWq4kwo8/maxresdefault.jpg)](https://www.youtube.com/watch?v=5pMIWq4kwo8)
+[![Watch on YouTube — click to open](https://img.youtube.com/vi/5pMIWq4kwo8/maxresdefault.jpg)](https://www.youtube.com/watch?v=5pMIWq4kwo8)
+*Click to open on YouTube*
 
 ---
 
