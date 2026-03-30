@@ -9,9 +9,9 @@ Face enhancement pipeline for WAN 2.2 video output. Loads an existing video, det
 
 ## Preview
 
-<video src="media/preview-meeting.mp4" controls width="720"></video>
+[![Preview — meeting scene](media/preview-meeting_thumb.png)](media/preview-meeting.mp4)
 
-<video src="media/preview-backwardlook.mp4" controls width="720"></video>
+[![Preview — backward look scene](media/preview-backwardlook_thumb.png)](media/preview-backwardlook.mp4)
 
 ---
 
