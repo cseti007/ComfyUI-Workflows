@@ -16,7 +16,7 @@ Those things together became MOMENTS: a ~2-minute short film about the pivot poi
 
 [![Preview — MOMENTS teaser](media/cseti_moments_teaser_web_thumb.png)](media/cseti_moments_teaser_web.mp4)
 
-Watch the full short-film here: *(link coming soon)*
+Watch the full short-film here: https://arcagidan.com/entry/06c37d91-060c-4a91-89e1-fae856888085
 
 If you like it, please vote — that's the best way to support this kind of work and help me keep making more opensource stuff: new workflows, fine-tuned models (full finetune, LoRA, IC-LoRA...), and so on.
 
