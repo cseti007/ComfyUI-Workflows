@@ -1,5 +1,10 @@
 # ComfyUI Workflows
 
+**[!] This repository is no longer maintained. All new workflows and updates are published on HuggingFace:**
+**https://huggingface.co/datasets/Cseti/ComfyUI-Workflows**
+
+---
+
 A personal collection of ComfyUI workflows for AI video generation, upscaling, and video editing.
 Each workflow entry includes a description, example output, requirements, and usage notes.
 
